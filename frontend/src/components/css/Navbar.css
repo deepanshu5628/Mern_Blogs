@@ -1,0 +1,16 @@
+.Navbar{
+    border :2px solid pink;
+    /* width: 99.6%; */
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+}
+
+#logoheading:hover{
+    cursor: pointer;
+}
